@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: fuck yeah
 published: true
 ---
-## got em
+## Got em
