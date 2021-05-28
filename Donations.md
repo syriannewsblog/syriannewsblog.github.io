@@ -1,3 +1,1 @@
-## A New Post
-
-hi pls donate lol
+hi we are credible sources lol
