@@ -1,4 +1,5 @@
 ### Donations
+Donations will help us keep this project going, Thank you.
 
 BTC, BCH: `1ByHZV5UkfnfeDpiSadG91AH7KWfn4XciQ`
 
