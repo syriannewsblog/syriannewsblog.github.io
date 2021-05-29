@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Syrian News
 
 ### More Information
 
-hi we are credible sources lol
+Syrian News is a blog where we bring news directly from the country of Syria.
 
 ### Contact me
 
