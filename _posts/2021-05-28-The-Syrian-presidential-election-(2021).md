@@ -7,6 +7,7 @@ In 2021, Bashar Al-Assad won the election for the 4th term, with 95.1% of the to
 These obscene numbers, without taking into account the unhappiness of the Syrian people, are simply unreal. They are concrete evidence supporting the election fraud theory. 
 
 Not only was the election fraudulent, but also, pictures of Bashar Al-Assad were posted all over the streets of Syria, as shown below: 
+
 ![Polish_20210525_164246377.jpg]({{site.baseurl}}/images/Polish_20210525_164246377.jpg)
 
 ![Polish_20210525_164032392.jpg]({{site.baseurl}}/images/Polish_20210525_164032392.jpg)
