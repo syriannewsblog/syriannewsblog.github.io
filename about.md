@@ -13,4 +13,4 @@ Syrian News is a blog where we bring news directly from the country of Syria.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com) (email coming soon?)
