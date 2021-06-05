@@ -1,5 +1,9 @@
 ### Donations
-Donations will help us keep this project going, Thank you.
+I have made a crypto donation page as was recommended to me on Reddit. 
+All donations, no matter how small, are very much appreciated. 
+Feel free to DM me on Reddit (u/jadreviewsthememe) as I would like to personally thank anyone who donates. Also, contact me if you wish for your donation to be used for something specific (charity, etc). 
+Thanks again. And please don't feel pressured into donating unless you absolutely want to. 
+(Keep in mind that BTC and ETH have very high transaction fees)
 
 BTC, BCH: `1ByHZV5UkfnfeDpiSadG91AH7KWfn4XciQ`
 
