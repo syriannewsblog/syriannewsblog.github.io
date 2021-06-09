@@ -17,6 +17,6 @@ I've had people tell me that the process takes around 10 days, after which they 
 
 Doctors were provided the COVID-19 vaccines (supposedly) in late 2020. There are also a number of people who paid for vaccination in private centers rather than waiting on the Ministry of Health. I have reason to believe that the number of people (Excluding the two former cases) that have received the free COVID-19 vaccine comes to around 27,000. 
 
-The Syrian Ministry of Health website for COVID-19: http://covid19.moh.gov.sy/index.aspx
+The Syrian Ministry of Health website for COVID-19: [http://covid19.moh.gov.sy/index.aspx](http://covid19.moh.gov.sy/index.aspx)
 
 In conclusion; though many westerners may not know this, but the Syrian healthcare system is in almost no way lacking. A lot of vaccination in Syria is mandatory, and all of it free. Health is something that has always been taken seriously in Syria, despite the circumstances.
