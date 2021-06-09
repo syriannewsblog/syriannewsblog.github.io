@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 It is no secret that the COVID-19 pandemic has caused massive worldwide damage. Most countries have suffered greatly due to Covid-related issues. Some countries were able to minimise the damage by instating nationwide lockdowns, but it was quite evident that the lockdowns could not last long enough, due to social and economic reasons. 
 It became very apparent that no country could start to revert the damage until a vaccine was created. 
